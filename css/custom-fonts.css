@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'crow';
+	src: url('../fonts/October Crow.eot');
+	src: url('../fonts/October Crow.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/October Crow.woff') format('woff'),
+		 url('../fonts/October Crow.ttf') format('truetype'),
+		 url('../fonts/October Crow.svg#October Crow') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
